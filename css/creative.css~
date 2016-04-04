@@ -124,7 +124,7 @@ aside {
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.3);
-        background-color: transparent;
+        background-color: rgba(255, 82, 2, 0.86);
     }
 
     .navbar-default .navbar-header .navbar-brand {
@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(http://45.media.tumblr.com/5abd9aa9b89a303f868895ebb059a749/tumblr_nltc5hTgVm1rx5rfmo1_1280.gif);
+    background-image:;
     
     background-position: center;
     -webkit-background-size: cover;
@@ -209,7 +209,11 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    background-color: rgba(255, 255, 255, 0.65); 
+    border-radius: 3px 22px 3px 24px;
+    padding: 5px;
+    color: rgba(255, 82, 2, 0.86);
+    
 }
 
 @media(min-width:768px) {
