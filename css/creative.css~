@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image:;
+    background-image: url((http://45.media.tumblr.com/5abd9aa9b89a303f868895ebb059a749/tumblr_nltc5hTgVm1rx5rfmo1_1280.gif);
     
     background-position: center;
     -webkit-background-size: cover;
